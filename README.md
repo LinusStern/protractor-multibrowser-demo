@@ -3,6 +3,7 @@
 > A demo of the <a href="https://www.npmjs.com/package/protractor-multibrowser">protractor-multibrowser</a> npm package which supports multiple different browsers within a single protractor test
 
 > Useful for integration tests which involve websites that don't all support the same browsers
+
 > Test a customer facing website in IE and an internal site in Firefox, all as one unified test case
 
 ---
