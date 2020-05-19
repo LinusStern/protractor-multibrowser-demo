@@ -1,6 +1,6 @@
 exports.config = {
     // Project settings
-    baseUrl: 'http://ptp.psychometrics.com/admin/',
+    baseUrl: 'https://angular.io/',
     specs: [ 'src/test/*.e2e.js' ], // Run all scripts in the given file path with the .e2e.js extension
     exclude: [],
     framework: 'jasmine2',
